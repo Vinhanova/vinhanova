@@ -1,7 +1,7 @@
 <h2 align="center">Tiago Vinhanova</h2>
 <div align="center">
   
-<p><em> Full-Stack Developer </em></p>
+<p><em> Software Developer </em></p>
 
 ![Repository’s Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhanova&theme=github_dark) 
 
