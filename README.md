@@ -3,7 +3,7 @@
   
 <p><em> Software Developer </em></p>
 
-![Repository’s Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinhanova&theme=github_dark) 
+![Repository’s Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinhanova&theme=github_dark) 
 
 <!-- ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black) -->
 
