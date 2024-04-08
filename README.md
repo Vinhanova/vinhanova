@@ -5,6 +5,8 @@
 
 ![Repository’s Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinhanova&theme=github_dark)
 
+<br />
+
 <h2>My Tech Stack</h2>
 
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](#)
@@ -26,4 +28,25 @@
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
+<br />
+
+## Projects for fun
+
+### [Investments App](https://tiagovinhanova.com)
+Combined my two favorite hobbies <br />
+I needed an application to centralize my investments, so I created one (still updating)
+
+[![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=61DAFB)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+
+<br />
+
+### [Simple Platform Game](https://vinhanova.itch.io/platform-game)
+Basic functionality (no installation required)
+
+[![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
 </div>
