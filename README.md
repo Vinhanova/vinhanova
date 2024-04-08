@@ -1,13 +1,12 @@
-<h2 align="center">Tiago Vinhanova</h2>
 <div align="center">
   
-<p><em> Software Developer </em></p>
+# Tiago Vinhanova
 
-![Repository’s Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinhanova&theme=github_dark)
+<p><em>Software Developer</em></p>
 
 <br />
 
-<h2>My Tech Stack</h2>
+## My Tech Stack
 
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
@@ -49,4 +48,8 @@ Basic functionality (no installation required)
 
 [![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
+
+<br />
+
+<!-- ![Repository’s Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinhanova&theme=github_dark) -->
 </div>
