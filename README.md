@@ -4,6 +4,8 @@
 
 <p><em>Software Developer</em></p>
 
+[![tiagovinhanova](https://img.shields.io/badge/tiagovinhanova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagovinhanova/)
+
 <br />
 
 ## My Tech Stack
@@ -35,7 +37,7 @@
 Combined my two favorite hobbies <br />
 I needed an application to centralize my investments, so I created one (still updating)
 
-[![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=61DAFB)](#)
+[![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
