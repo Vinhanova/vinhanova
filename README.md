@@ -32,7 +32,7 @@
 
 ## Projects for fun
 
-### [Investments App](https://tiagovinhanova.com)
+### [∞ Investments Web App](https://tiagovinhanova.com)
 Combined my two favorite hobbies <br />
 I needed an application to centralize my investments, so I created one (still updating)
 
