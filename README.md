@@ -4,7 +4,6 @@
 
 <p><em>Software Developer</em></p>
 <p>I'm based in Viseu, Portugal</p>
-<p>I'm currently working on <em>Investments Web App</em> for fun and to learn TypeScript</p>
 <p>I'm open to collaborating on Frontend, Backend or Mobile Projects</p>
 
 [![tiagovinhanova](https://img.shields.io/badge/tiagovinhanova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagovinhanova/)
